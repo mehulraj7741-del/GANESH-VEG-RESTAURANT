@@ -1,0 +1,81 @@
+/* BODY */
+body {
+  font-family: Arial;
+  background-color: #fff8f0;
+  margin: 0;
+  padding: 20px 60px;
+  color: #333;
+}
+
+/* H1 - Restaurant Name */
+h1 {
+  text-align: center;
+  color: white;
+  background-color: darkgreen;
+  padding: 20px;
+  margin: 0;
+  font-size: 36px;
+}
+
+/* TAGLINE */
+.tagline {
+  text-align: center;
+  background-color: green;
+  color: white;
+  padding: 10px;
+  margin: 0 0 20px 0;
+  font-size: 16px;
+}
+
+/* MENU TITLE */
+.menu-title {
+  text-align: center;
+  color: darkred;
+  font-size: 28px;
+  border-bottom: 2px solid darkred;
+  padding-bottom: 8px;
+}
+
+/* H3 - Section Headings */
+h3 {
+  color: white;
+  background-color: darkgreen;
+  padding: 10px 15px;
+  border-radius: 6px;
+  font-size: 20px;
+}
+
+/* H4 - Sub Section */
+h4 {
+  color: darkgreen;
+  font-size: 16px;
+  margin-left: 20px;
+}
+
+/* LIST */
+ol {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px 15px 15px 40px;
+  margin: 10px 0 20px 0;
+}
+
+/* LIST ITEMS */
+ol li {
+  padding: 8px 5px;
+  border-bottom: 1px solid #f0e8e0;
+  font-size: 15px;
+  color: #333;
+}
+
+ol li:last-child {
+  border-bottom: none;
+}
+
+ol li:hover {
+  background-color: #fff0e6;
+  border-radius: 4px;
+}
+
+/* HR LINE */
